@@ -1,0 +1,18 @@
+{
+  "name": "Apex League — Campeonato de Kart",
+  "short_name": "Apex League",
+  "description": "Sistema oficial da liga de Kart: ranking, etapas, pilotos e campeonato.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0b0b",
+  "theme_color": "#0b0b0b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
